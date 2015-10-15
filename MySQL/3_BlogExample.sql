@@ -5,7 +5,6 @@ show databases;
 create database Blog;
 use Blog;
 
-
 # RELATIONS
 # Authors : Posts --> 1 : n
 # Authors : Sites --> 1 : 1
