@@ -1,0 +1,9 @@
+html
+	head
+		title Node.js MongoDB Test
+	body
+		h1 Create a new fruit
+		form(method="POST" action="/fruit/new/")
+			label(for="fruit") New fruit:
+			input(type="text" name="fruitName" id="fruit" placeholder="type fruit name here")
+			input(type="submit")

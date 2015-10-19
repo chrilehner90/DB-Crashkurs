@@ -1,0 +1,15 @@
+{
+  "name": "join-collections",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Lehner",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.0.46",
+    "q": "^1.4.1"
+  }
+}
